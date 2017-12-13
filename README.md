@@ -9,7 +9,7 @@
 
 1.User JavaScript and CSS (https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
 
-2.Tampermonkey (http://tampermonkey.net)
+2.Tampermonkey (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 ViewMetaDataInBrowser_cs.js - вывод данных в консоль браузера.
 
