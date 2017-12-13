@@ -9,4 +9,4 @@
 
 ViewMetaDataInBrowser_cs.js - вывод данных в консоль браузера.
 
-ViewMetaDataInBrowser_fv.js - вывод данных в новый фиксированный блок вверху страницы.
+ViewMetaDataInBrowser_fv.js - вывод данных в новый блок вверху страницы.
