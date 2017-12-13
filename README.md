@@ -5,11 +5,7 @@
 
 Для осуществления этого предлагаю следующий скрипт.
 
-Скрипт можно подключить непосредственно к сайту, а можно (что на мой взгляд более разумно) воспользоваться такими расширениями к браузеру как:
-
-1.User JavaScript and CSS (https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
-
-2.Tampermonkey (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+Скрипт нужно подключить через Tampermonkey(Chrome) или GreaseMonkey(FireFox) (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 ViewMetaDataInBrowser_cs.js - вывод данных в консоль браузера.
 
